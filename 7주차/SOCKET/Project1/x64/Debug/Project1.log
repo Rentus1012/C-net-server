@@ -1,0 +1,4 @@
+﻿  client.c
+D:\C-class net server\7주차\SOCKET\Project1\client.c(70,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\C-class net server\7주차\SOCKET\Project1\client.c(89,39): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project1.vcxproj -> D:\C-class net server\7주차\SOCKET\x64\Debug\Project1.exe
